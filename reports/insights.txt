@@ -1,0 +1,5 @@
+1. Historical VaR and CVaR were calculated to measure downside risk.
+2. Rolling Sharpe ratio was analyzed to check risk-adjusted performance.
+3. SIP continuity was studied using monthly SIP inflow patterns.
+4. Fund recommendations were generated based on risk grade and Sharpe ratio.
+5. Portfolio concentration was measured using Sector HHI analysis.
